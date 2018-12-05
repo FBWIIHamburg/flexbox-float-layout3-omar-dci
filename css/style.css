@@ -1,0 +1,7 @@
+.main{background-color: yellow;flex: 1;height: 100vh;flex-direction: column;display:flex}
+.head{background-color: aqua;;height: 10vh;flex: 1}
+.container{flex: 4;flex-direction: row;display: flex}
+.left{background-color: black;flex: 4;height: 80vh;}
+.middle{background-color: red;flex: 1;height: 80vh;}
+.right{background-color: rebeccapurple;flex: 1;height: 80vh;}
+.footer{background-color: gray;flex: 1;height: 10vh;}
